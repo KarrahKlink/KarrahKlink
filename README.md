@@ -1,4 +1,4 @@
-## Software development feels like impostor syndrome...
+Software Engineering student currently learning __Python__. I have some experience with __JavaScript__ and __C#__, as well as __CSS__.
 
 <!--
 **KarrahKlink/KarrahKlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
